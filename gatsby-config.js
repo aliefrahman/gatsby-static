@@ -11,7 +11,7 @@ module.exports = {
   siteMetadata: {
     title: `recipecode`,
     description: `Web Development.`,
-    author: '@aliefrahman.id',
+    author: '@aliefrahman',
     siteUrl: `https://recipecode.biz.id`,
   },
   plugins: [
